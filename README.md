@@ -5,7 +5,7 @@ Este é um projeto de bot automatizado para realizar login em uma página web e 
 
 ## Funcionalidades
 
-- Interface gráfica (GUI) para entrada de **Gmail** e **senha**.
+- Interface gráfica (GUI) para entrada de **Gmail** e **senha**.(Para Fazer login No Site)
 - Opção de selecionar um arquivo CSV com as informações dos produtos.
 - Automação de login na plataforma fornecida.
 - Cadastro automatizado de produtos no sistema com base nos dados do arquivo CSV.
